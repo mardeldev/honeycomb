@@ -3,13 +3,14 @@ import bill from "./bill.png";
 import binance from "./binance.png";
 import bee1 from "./bee-graphic-1.png";
 import bee2 from "./bee-graphic-2.png";
+import bee3 from "./bee-graphic-3.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
-import send from "./Send.svg";
+import send from "./Send.png";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
 import menu from "./menu.svg";
@@ -32,6 +33,7 @@ export {
   binance,
   bee1,
   bee2,
+  bee3,
   card,
   coinbase,
   dropbox,

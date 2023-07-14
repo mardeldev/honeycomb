@@ -47,7 +47,7 @@
       #fddeaf 12.19%,
       #f9cf8f 29.82%,
       #f5b960 51.94%,
-      #915a08 90.29%);
+      #b5710a 90.29%);
 }
 
 .bg-black-gradient {
@@ -131,6 +131,11 @@
 
 .pink__gradient {
   background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
+  filter: blur(900px);
+}
+
+.yellow__gradient {
+  background: linear-gradient(90deg, #e3eb48 0%, #f3d910 100%);
   filter: blur(900px);
 }
 

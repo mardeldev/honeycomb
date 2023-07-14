@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../style';
-import { discount, bee2 } from '../assets';
+import { discount, bee2, bee3 } from '../assets';
 import GetStarted from './GetStarted';
 
 const Hero = () =>
@@ -20,18 +20,36 @@ const Hero = () =>
                     The next <br className='sm:block hidden' /> {" "}
                     <span
                         className='text-gradient'>Generation</span> {" "}
-                    Payment Method.
                 </h1>
 
                 <div className="ss:flex hidden md:mr-4 mr-0">
                     <GetStarted />
                 </div>
-
             </div>
+
+            <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>Payment Method.
+            </h1>
+            <p className={`${styles.paragraph} max-w-[100%] mt-5`}>
+                Our team of experts recognise the importance of your honey (and money). Expertly trained in the handling and care of delicate <span className='text-gradient'>honey</span>, <span className='text-gradient'>honeycomb</span> and <span className='text-gradient'>wax</span>. This is the world's first bank that recognises <span className="text-white">honey as a currency</span>. <br /> <br />Get started today to find out how you can save, invest and trade your honey with us. And we haven't stopped there, because you can still save and invest your fiat and bitcoin currencies with us. We do it all.
+            </p>
+        </div>
+
+        <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
+            <img src={bee3} alt="billing" className='w-[100%] h-[100%] relative z-[5]' />
+
+            <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
+
+            <div className="absolute z-[1] w-[80%] h-[80%] rounded-full bottom-40 white__gradient" />
+
+            <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 yellow__gradient " />
 
         </div>
 
-    </section>
+        <div className={`ss:hidden ${styles.flexCenter}`}>
+            <GetStarted />
+        </div>
+
+    </section >
 )
 
 
