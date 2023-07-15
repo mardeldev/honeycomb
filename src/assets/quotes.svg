@@ -1,13 +1,11 @@
-<svg width="43" height="28" viewBox="0 0 43 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M11.7984 27.6L18.9984 0H12.3984L0.398438 27.6H11.7984ZM35.7984 27.6L42.9984 0H36.3984L24.3984 27.6H35.7984Z" fill="url(#paint0_linear_310_509)"/>
-<defs>
-<linearGradient id="paint0_linear_310_509" x1="28.8615" y1="-24.7969" x2="41.7939" y2="24.1471" gradientUnits="userSpaceOnUse">
-<stop offset="0.00887753" stop-color="#DEF9FA"/>
-<stop offset="0.1723" stop-color="#BEF3F5"/>
-<stop offset="0.4204" stop-color="#9DEDF0"/>
-<stop offset="0.5512" stop-color="#7DE7EB"/>
-<stop offset="0.7154" stop-color="#5CE1E6"/>
-<stop offset="1" stop-color="#33BBCF"/>
-</linearGradient>
-</defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 28" width="43" height="28">
+	<title>New Project</title>
+	<defs>
+		<image  width="43" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAcAQMAAADC7NSWAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAMSURBVHicY2AY+gAAAMQAAVO1DUIAAAAASUVORK5CYII="/>
+		<image  width="43" height="28" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAcCAMAAADP/LbnAAAAAXNSR0IB2cksfwAAAFdQTFRFAAAA9/Lc9vDX9e7S8+zN8urI8ejC8Oa97uS37eKx7N+r6t2l6duf6NmZ5taT5dSN49KH4tCB4c1738t13slv3cdp28Rj2sJe2cBY175T1rxO1bpJ1LlEc3/mLQAAAB10Uk5TAP/////////////////////////////////////jxRbPAAAAlklEQVR4nG3MRxICQRADwcEvHhZv/v9ODkwbdVQeKxRqLZn8tQr6tKtT6rOubqHPTZlSX3T1FvrSlCn1lSlb6oMpW+hrU6bUN6ZsoW+dTqnvTLmFvnc6pX5wuqV+dLqFfnI6pX52uoU+BplSvwTZQr8GmVK/BdlSvwfZQn8keUr9GeQW+ivJU+rvJG+hf7I0pf5N8i30H9pHIk13AIDFAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Layer 1" href="#img2" x="0" y="0"/>
 </svg>

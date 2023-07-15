@@ -10,8 +10,8 @@ const Hero = () =>
             <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
                 <img src={discount} alt="discount" className='w-[32px] h-[32px] ' />
                 <p className={`${styles.paragraph} ml-2`}>
-                    <span className='text-white'>20%</span> Discount For {' '}
-                    <span className="text-white">1 Month</span> Account
+                    <span className='text-white'>20 Free Jars Of </span> <span className='text-gradient'>Honey</span> {' '}
+                    <span className="text-white">When You Join</span>
                 </p>
             </div>
 
@@ -30,7 +30,7 @@ const Hero = () =>
             <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>Payment Method.
             </h1>
             <p className={`${styles.paragraph} max-w-[100%] mt-5`}>
-                Our team of experts recognise the importance of your honey (and money). Expertly trained in the handling and care of delicate <span className='text-gradient'>honey</span>, <span className='text-gradient'>honeycomb</span> and <span className='text-gradient'>wax</span>. This is the world's first bank that recognises <span className="text-white">honey as a currency</span>. <br /> <br />Get started today to find out how you can save, invest and trade your honey with us. And we haven't stopped there, because you can still save and invest your fiat and bitcoin currencies with us. We do it all.
+                Our team of experts recognise the importance of your honey (and money). Expertly trained in the handling and care of delicate <span className='text-gradient'>honey</span>, <span className='text-gradient'>honeycomb</span> and <span className='text-gradient'>wax</span>, this is the world's first bank that recognises <span className="text-white">honey as a currency</span>. <br /> <br />Get started today to find out how you can save, invest and trade your honey with us. And we haven't stopped there, because you can still save and invest your fiat and crypto currencies with us. We do it all.
             </p>
         </div>
 

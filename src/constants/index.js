@@ -47,25 +47,25 @@ export const feedback = [
     {
         id: "feedback-1",
         content:
-            "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-        name: "Herman Jensen",
-        title: "Founder & Leader",
+            "Money is only a tool. It will take you wherever you wish, but take control of it with the help of HoneyComb and become financially free. We are here for you.",
+        name: "Christian Hornet",
+        title: "Founder & CEO",
         img: people01,
     },
     {
         id: "feedback-2",
         content:
-            "Money makes your life easier. If you're lucky to have it, you're lucky.",
-        name: "Steve Mark",
-        title: "Founder & Leader",
+            "Who knew there would ever be a bank that would be able to service my exact needs and more. I trust my money and especially my honey with HoneyComb.",
+        name: "Bumble Bee",
+        title: "Head of Intelligence",
         img: people02,
     },
     {
         id: "feedback-3",
         content:
-            "It is usually people in the money business, finance, and international trade that are really rich.",
-        name: "Kenn Gallagher",
-        title: "Founder & Leader",
+            "Ever since HoneyComb, my country have been able to trade all over the world with much more speed and efficiency. Our GDP has tripled and it is all thanks to HC.",
+        name: "Princess Stingerella",
+        title: "Papua New Honuea",
         img: people03,
     },
 ];
