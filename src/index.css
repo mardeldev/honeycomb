@@ -124,6 +124,12 @@
   background: var(--black-gradient);
 }
 
+.masking:hover {
+  mask-image: linear-gradient(270deg, rgba(194, 243, 50, 0) 0%, #e3eaf0 100%, transparent);
+  filter: brightness(10);
+  /* background: var(--black-gradient); */
+}
+
 .blue__gradient {
   background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
   filter: blur(123px);
