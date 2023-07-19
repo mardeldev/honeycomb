@@ -119,23 +119,23 @@ export const footerLinks = [
         links: [
             {
                 name: "Help Center",
-                link: "https://www.hoobank.com/help-center/",
+                link: "https://www.honeycomb.com/help-center/",
             },
             {
                 name: "Partners",
-                link: "https://www.hoobank.com/partners/",
+                link: "https://www.honeycomb.com/partners/",
             },
             {
                 name: "Suggestions",
-                link: "https://www.hoobank.com/suggestions/",
+                link: "https://www.honeycomb.com/suggestions/",
             },
             {
                 name: "Blog",
-                link: "https://www.hoobank.com/blog/",
+                link: "https://www.honeycomb.com/blog/",
             },
             {
                 name: "Newsletters",
-                link: "https://www.hoobank.com/newsletters/",
+                link: "https://www.honeycomb.com/newsletters/",
             },
         ],
     },
@@ -144,11 +144,11 @@ export const footerLinks = [
         links: [
             {
                 name: "Our Partner",
-                link: "https://www.hoobank.com/our-partner/",
+                link: "https://www.honeycomb.com/our-partner/",
             },
             {
                 name: "Become a Partner",
-                link: "https://www.hoobank.com/become-a-partner/",
+                link: "https://www.honeycomb.com/become-a-partner/",
             },
         ],
     },
@@ -173,7 +173,7 @@ export const socialMedia = [
     {
         id: "social-media-4",
         icon: linkedin,
-        link: "https://www.linkedin.com/",
+        link: "https://www.linkedin.com/in/aimable-mardel/",
     },
 ];
 
