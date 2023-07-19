@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 32" width="28" height="32">
+	<title>Shield</title>
+	<defs>
+		<image  width="28" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAgAQMAAAA7e4oBAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA9blgbt18XQAAAAJ0Uk5TAP9bkSK1AAAAWUlEQVR4nI3OsQ2AMBBD0Y8oMkZGyWjJJLBKBkBihbABEg0FwtxBAx3Na2zJhlSh0w5BgiRVJK3/mJ3RScaQjcmDxdk+5Sy1F/dQlMpD0Am9DsC69qMZsXABi6hiJiyndB4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
