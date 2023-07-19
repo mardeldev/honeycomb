@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" width="33" height="32">
+	<title>Star</title>
+	<defs>
+		<image  width="32" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeAQMAAAB3xI5qAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA9blgbt18XQAAAAJ0Uk5TAP9bkSK1AAAAVElEQVR4nE3JsQ3AIBADQEdfUDICozAaGe1HYQRKCoRjBSG9i5NlA+bAIfVLHpcyRV2CW4VcoBJo1PMfhZzI5EAiO4x0POR7sIgH0m5iVjGyNjf/AD8YRQzF3mPUAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="1" y="1"/>
+</svg>

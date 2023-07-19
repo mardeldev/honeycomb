@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>percentage</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAEJQTFRFAAAASUlJODg4Ozs7Ozs7Ojo6Ozs7Ojo6Nzc3ODg4ODg4PDw8NjY2Ozs7Ojo6OTk5PDw89blgQEBAKysrPDw8PDw8gcAfewAAABZ0Uk5TAAcgGg0sX2YzQE0zJidgLUD/IAZNJguW9PAAAAC0SURBVHicrZNJEoMgEEURSL5IZEjM/a+aFENkaKwy5d+4eA97QBm7OBMX8ojf7gDmMZ8RQhpyVmpByqKUbio90GWtzvccpnyHJgTYQnCU4M4IsX/vffHA0s0fic/Cvo/Eo+B3IbdZzVhymCkIYsSBZxD4kEME4WVGHGmZtua7pJtN+9+cDR8sarv0LsjrLlpg0hBC9dGtHTZvVkVq57YMN+cs+XvovjhhGDvm30qCT0f8n3wAS4cSWmlF2XoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+</svg>

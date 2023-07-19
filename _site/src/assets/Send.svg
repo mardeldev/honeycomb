@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" width="33" height="32">
+	<title>Send</title>
+	<defs>
+		<image  width="31" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfAQMAAAAlYIR6AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA9blgbt18XQAAAAJ0Uk5TAP9bkSK1AAAAV0lEQVR4nE3NMQqAMAADwBSHjv5An+HYjwn1aT7FJzgKlsbEqjjkhkAIAMxKV8VoKEZDEU0iC3LjLOp5NLJJpmfeEasI5OatmEz8sernI3B5wE3GSzIDLjUmQSLDD6UkAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 2" href="#img1" x="1" y="1"/>
+</svg>
